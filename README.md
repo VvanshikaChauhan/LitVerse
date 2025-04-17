@@ -8,6 +8,8 @@ Features:
 - Clean, minimal HTML-only design (no JavaScript)
 - Mobile-friendly layout
 
+Live Demo: https://vvanshikachauhan.github.io/LitVerse/
+
 How to Use:
 1. Visit the live site using the link above
 2. Browse book recommendations by genre or vibe
@@ -16,7 +18,7 @@ How to Use:
 
 Built With:
 - HTML5
-- 
+
 Design:
 - Simple, minimal layout focused on content
 - Responsive design to ensure the site looks great on both mobile and desktop
