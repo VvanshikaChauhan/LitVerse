@@ -28,6 +28,3 @@ This project is licensed under the MIT License.
 
 Contributions:
 Feel free to contribute or suggest improvements. Open an issue or submit a pull request.
-
-Screenshots:
-![Screenshot](https://bbpsmv-my.sharepoint.com/:i:/g/personal/kushagra3251_bbpsmv_onmicrosoft_com/ETyheCkKVf9Mu5rAu_NERuwBXJLrFo4O-a8tg1wcHBsUbA?e=o8pKdi) 
