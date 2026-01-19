@@ -1,4 +1,4 @@
-LITVERSE ~ Scroll through stories, not feeds — Bookstagram recommendations in one place.
+LITVERSE ~ Scroll through stories, not feeds - Bookstagram recommendations in one place.
 
 LitVerse is a simple HTML-based website that curates book recommendations from popular Bookstagrammers. Whether you're into thrillers, cozy romances, or deep fantasy worlds — this site helps readers discover new reads through the lens of trusted book lovers.
 
